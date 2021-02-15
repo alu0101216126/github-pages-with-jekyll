@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Este es mi blog
 
-I'm glad you are here. I plan to talk about ...
+Este es el texto de mi blog
